@@ -172,7 +172,7 @@ pip-selfcheck.json
 # End of https://www.gitignore.io/api/python,visualstudiocode
 
 # do not ignore crane lib
-!crane/crane/lib
+!crane/lib
 !crane/tests/**/lib
 !crane/publictests/lib
 
