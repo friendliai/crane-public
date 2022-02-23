@@ -1,0 +1,7 @@
+recursive-include crane/core/gateway/routers *.html
+include crane/py.typed
+recursive-include crane *.py
+include crane/checkpoint/checkpoint.json
+include pyproject.toml
+
+recursive-exclude tests *

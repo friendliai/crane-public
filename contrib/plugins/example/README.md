@@ -1,0 +1,1 @@
+# CraneCLI plugin example
